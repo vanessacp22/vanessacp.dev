@@ -12,16 +12,6 @@ const experience = [
     ],
   },
   {
-    role: "IT/ IOT/ Web Dev Registered Pre-Apprentice",
-    company: "<DEV/MISSION>",
-    period: "Sept 2025 – Dec 2025",
-    bullets: [
-      "Completed a Registered Pre-Apprenticeship spanning IT, IoT, and Web Development, with hands-on experience across both hardware and software systems. Built a strong foundation in networking, device integration, and full-stack web fundamentals, while developing practical skills in troubleshooting, system configuration, and creating connected, user-facing applications.",
-      "160+ hours of training in IT fundamentals, IoT concepts, and web development",
-      "C++, JavaScript, HTML/CSS, Arduino, Linux",
-    ],
-  },
-  {
     role: "Student Consultant: negotiating Investments in start up companies",
     company: "The Build Fellowship",
     period: "Feb 2026 – April 2026",
@@ -44,10 +34,20 @@ const experience = [
   {
     role: "HIIT Pilates Instructor",
     company: "BODYROK",
-    period: "Month Year – Present",
+    period: "Jan 2026 – Present",
     bullets: [
       "Lead high-intensity Pilates classes focused on precision and performance",
       "Coach athletes and beginners through form, progression, and real-time adjustments",
+    ],
+  },
+  {
+    role: "IT/ IOT/ Web Dev Registered Pre-Apprentice",
+    company: "<DEV/MISSION>",
+    period: "Sept 2025 – Dec 2025",
+    bullets: [
+      "Completed a Registered Pre-Apprenticeship spanning IT, IoT, and Web Development, with hands-on experience across both hardware and software systems. Built a strong foundation in networking, device integration, and full-stack web fundamentals, while developing practical skills in troubleshooting, system configuration, and creating connected, user-facing applications.",
+      "160+ hours of training in IT fundamentals, IoT concepts, and web development",
+      "C++, JavaScript, HTML/CSS, Arduino, Linux",
     ],
   },
 ]

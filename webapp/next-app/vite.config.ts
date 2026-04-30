@@ -5,7 +5,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/vanessas-portfolio/",
+  base: "/vanessacp.dev/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
